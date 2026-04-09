@@ -1,0 +1,14 @@
+1.	Write program for simple data input using input () and formatted output using print ()
+
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+
+print("Hello", name)
+print("You are", age, "years old")
+
+Output:
+
+Enter your name: Hari
+Enter your age: 20
+Hello Hari
+You are 20 years old
